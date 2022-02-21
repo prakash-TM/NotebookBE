@@ -1,5 +1,5 @@
 service: notebookappbe
-app: NotebookAppBE
+app: notebookappbe
 frameworkVersion: '3'
 provider:
   name: aws
